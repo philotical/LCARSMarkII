@@ -1,0 +1,3 @@
+M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARSMarkII\Parts\SC-Aurora\SCAurora.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\SCAurora\obj\Debug\SCAurora.csprojResolveAssemblyReference.cache
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\SCAurora\obj\Debug\SCAurora.dll

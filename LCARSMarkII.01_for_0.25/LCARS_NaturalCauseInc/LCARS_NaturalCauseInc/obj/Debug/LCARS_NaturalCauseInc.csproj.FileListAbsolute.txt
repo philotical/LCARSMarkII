@@ -1,0 +1,7 @@
+C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARS_NaturalCauseInc\LCARS_NaturalCauseInc\LCARS_NaturalCauseInc\obj\Debug\LCARS_NaturalCauseInc.csprojResolveAssemblyReference.cache
+M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\SciFi\LCARS_Plugin\LCARS_NaturalCauseInc\LCARS_NaturalCauseInc.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARS_NaturalCauseInc\LCARS_NaturalCauseInc\LCARS_NaturalCauseInc\obj\Debug\LCARS_NaturalCauseInc.dll
+M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\LCARS_NaturalCauseInc\LCARS_NaturalCauseInc.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARS_NaturalCauseInc\LCARS_NaturalCauseInc\obj\Debug\LCARS_NaturalCauseInc.csprojResolveAssemblyReference.cache
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARS_NaturalCauseInc\LCARS_NaturalCauseInc\obj\Debug\LCARS_NaturalCauseInc.dll
+M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARS_NaturalCauseInc\LCARS_NaturalCauseInc.dll

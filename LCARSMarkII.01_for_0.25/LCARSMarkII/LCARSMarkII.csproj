@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{96CECDBC-BF9B-401F-B0A7-E99BB20DB610}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LCARSMarkII</RootNamespace>
+    <AssemblyName>LCARSMarkII</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARSMarkII\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>M:\games\ksp\ksp-win64-0-25-0\KSP_win64\KSP_x64_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="LCARSNCI_Bridge, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARSMarkII\LCARSNCI_Bridge.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine">
+      <HintPath>M:\games\ksp\ksp-win64-0-25-0\KSP_win64\KSP_x64_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="0.0.2\CLZF2.cs" />
+    <Compile Include="0.0.2\ILCARSPluginInterface.cs" />
+    <Compile Include="0.0.2\LCARSMarkII.cs" />
+    <Compile Include="0.0.2\LCARS_Crew_RepairTeam.cs" />
+    <Compile Include="0.0.2\LCARS_ShipSystems_BridgeProp.01.cs" />
+    <Compile Include="0.0.2\LCARS_ShipSystems_CommunicationProp.01.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="0.0.2\LCARS_ShipSystems_EngineeringProp.01.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="0.0.2\LCARS_ShipSystems_HelmProp.01.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="0.0.2\LCARS_ShipSystems_ReplicatorProp.02.cs" />
+    <Compile Include="0.0.2\LCARS_ShipSystems_ScienceProp.01.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="0.0.2\LCARS_ShipSystems_TacticalProp.01.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="0.0.2\LCARS_Util_AudioLibrary.01.cs" />
+    <Compile Include="0.0.2\LCARS_Util_Communication.cs" />
+    <Compile Include="0.0.2\LCARS_Util_CrewQuartiers.cs" />
+    <Compile Include="0.0.2\LCARS_Util_Vessel_Extender.cs" />
+    <Compile Include="0.0.2\LCARS_Util_PowerSystem.cs" />
+    <Compile Include="0.0.2\LCARS_Station_Bridge.cs" />
+    <Compile Include="0.0.2\LCARS_Station_Communication.cs" />
+    <Compile Include="0.0.2\LCARS_Station_Engeneering.cs" />
+    <Compile Include="0.0.2\LCARS_Station_Helm.cs" />
+    <Compile Include="0.0.2\LCARS_Station_Science.cs" />
+    <Compile Include="0.0.2\LCARS_Station_Tactical.cs" />
+    <Compile Include="0.0.2\LCARS_Utilities.01.cs" />
+    <Compile Include="0.0.2\LCARS_Util_FlightControll.cs" />
+    <Compile Include="0.0.2\LCARS_Util_GravityTools.01.cs" />
+    <Compile Include="0.0.2\LCARS_Util_ODN.cs" />
+    <Compile Include="0.0.2\LCARS_Util_Subsystem.01.cs" />
+    <Compile Include="0.0.2\LCARS_Util_Toolbar.cs" />
+    <Compile Include="0.0.2\LCARS_Util_Windows.02.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

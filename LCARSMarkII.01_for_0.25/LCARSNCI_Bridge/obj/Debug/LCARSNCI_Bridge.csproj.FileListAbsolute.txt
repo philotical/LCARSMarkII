@@ -1,0 +1,6 @@
+C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARSMarkII\LCARSNCI_Bridge\LCARSNCI_Bridge\obj\Debug\LCARSNCI_Bridge.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARSMarkII\LCARSNCI_Bridge\LCARSNCI_Bridge\obj\Debug\LCARSNCI_Bridge.csprojResolveAssemblyReference.cache
+M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\LCARSMarkII\LCARSNCI_Bridge.dll
+M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARSMarkII\LCARSNCI_Bridge.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARSNCI_Bridge\obj\Debug\LCARSNCI_Bridge.csprojResolveAssemblyReference.cache
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARSNCI_Bridge\obj\Debug\LCARSNCI_Bridge.dll

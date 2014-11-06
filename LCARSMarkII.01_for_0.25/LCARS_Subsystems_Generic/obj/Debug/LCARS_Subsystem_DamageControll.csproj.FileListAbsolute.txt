@@ -1,0 +1,6 @@
+M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\LCARSMarkII\plugins\LCARS_Subsystem_DamageControll.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARSMarkII\LCARS_Subsystem_DamageControll\LCARS_Subsystem_DamageControll\obj\Debug\LCARS_Subsystem_DamageControll.csprojResolveAssemblyReference.cache
+C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARSMarkII\LCARS_Subsystem_DamageControll\LCARS_Subsystem_DamageControll\obj\Debug\LCARS_Subsystem_DamageControll.dll
+M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARSMarkII\plugins\LCARS_Subsystem_DamageControll.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARS_Subsystem_DamageControll\obj\Debug\LCARS_Subsystem_DamageControll.csprojResolveAssemblyReference.cache
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARS_Subsystem_DamageControll\obj\Debug\LCARS_Subsystem_DamageControll.dll

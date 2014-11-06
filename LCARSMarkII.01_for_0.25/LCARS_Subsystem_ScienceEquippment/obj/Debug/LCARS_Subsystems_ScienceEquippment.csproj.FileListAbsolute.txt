@@ -1,0 +1,3 @@
+M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARSMarkII\plugins\LCARS_Subsystems_ScienceEquippment.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARS_Subsystem_ScienceEquippment\obj\Debug\LCARS_Subsystems_ScienceEquippment.csprojResolveAssemblyReference.cache
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARS_Subsystem_ScienceEquippment\obj\Debug\LCARS_Subsystems_ScienceEquippment.dll

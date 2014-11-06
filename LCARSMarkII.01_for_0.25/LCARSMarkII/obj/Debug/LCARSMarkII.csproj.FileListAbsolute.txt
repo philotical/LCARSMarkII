@@ -1,0 +1,6 @@
+M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\LCARSMarkII\LCARSMarkII.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARSMarkII\LCARSMarkII\LCARSMarkII\obj\Debug\LCARSMarkII.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARSMarkII\LCARSMarkII\LCARSMarkII\obj\Debug\LCARSMarkII.csprojResolveAssemblyReference.cache
+M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARSMarkII\LCARSMarkII.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARSMarkII\obj\Debug\LCARSMarkII.csprojResolveAssemblyReference.cache
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARSMarkII\obj\Debug\LCARSMarkII.dll
