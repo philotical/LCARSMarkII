@@ -1,0 +1,8 @@
+M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\SciFi\LCARS_Plugin\Parts\BadLands\BadLands.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\BadLands\BadLands\BadLands\obj\Debug\BadLands.csprojResolveAssemblyReference.cache
+C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\BadLands\BadLands\BadLands\obj\Debug\BadLands.dll
+M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\LCARS_NaturalCauseInc\Parts\BadLands\BadLands.dll
+M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARS_NaturalCauseInc\Parts\BadLands\BadLands.dll
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\BadLands\obj\Debug\BadLands.csprojResolveAssemblyReference.cache
+C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\BadLands\obj\Debug\BadLands.dll
+M:\games\ksp\ksp-win-0-90-0\KSP_win\GameData\LCARS_NaturalCauseInc\Parts\BadLands\BadLands.dll
