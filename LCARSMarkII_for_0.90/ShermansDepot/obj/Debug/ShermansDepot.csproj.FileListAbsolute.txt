@@ -1,4 +1,0 @@
-M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARS_NaturalCauseInc\Parts\ShermansDepot\ShermansDepot.dll
-C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\ShermansDepot\obj\Debug\ShermansDepot.csprojResolveAssemblyReference.cache
-C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\ShermansDepot\obj\Debug\ShermansDepot.dll
-M:\games\ksp\ksp-win-0-90-0\KSP_win\GameData\LCARS_NaturalCauseInc\Parts\ShermansDepot\ShermansDepot.dll

@@ -1,3 +1,0 @@
-M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARS_NaturalCauseInc\Parts\MemoryAlpha\MemoryAlpha.dll
-C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\MemoryAlpha\obj\Debug\MemoryAlpha.csprojResolveAssemblyReference.cache
-C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\MemoryAlpha\obj\Debug\MemoryAlpha.dll

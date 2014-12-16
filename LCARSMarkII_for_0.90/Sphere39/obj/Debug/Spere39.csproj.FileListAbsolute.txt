@@ -1,3 +1,0 @@
-M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\LCARS_NaturalCauseInc\Parts\Sphere39\Spere39.dll
-C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\Spere39\Spere39\obj\Debug\Spere39.csprojResolveAssemblyReference.cache
-C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\Spere39\Spere39\obj\Debug\Spere39.dll

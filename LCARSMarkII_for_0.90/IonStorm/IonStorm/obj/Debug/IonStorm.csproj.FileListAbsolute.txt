@@ -1,8 +1,0 @@
-M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\SciFi\LCARS_Plugin\Parts\IonStorm\IonStorm.dll
-C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\IonStorm\IonStorm\IonStorm\IonStorm\obj\Debug\IonStorm.csprojResolveAssemblyReference.cache
-C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\IonStorm\IonStorm\IonStorm\IonStorm\obj\Debug\IonStorm.dll
-M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\LCARS_NaturalCauseInc\Parts\IonStorm\IonStorm.dll
-M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARS_NaturalCauseInc\Parts\IonStorm\IonStorm.dll
-C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\IonStorm\IonStorm\obj\Debug\IonStorm.csprojResolveAssemblyReference.cache
-C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\IonStorm\IonStorm\obj\Debug\IonStorm.dll
-M:\games\ksp\ksp-win-0-90-0\KSP_win\GameData\LCARS_NaturalCauseInc\Parts\IonStorm\IonStorm.dll

@@ -1,7 +1,0 @@
-C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARSMarkII\LCARS_Subsystem_NCI\LCARS_Subsystem_NCI\obj\Debug\LCARS_Subsystem_NCI.csprojResolveAssemblyReference.cache
-M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\LCARSMarkII\plugins\LCARS_Subsystem_NCI.dll
-C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARSMarkII\LCARS_Subsystem_NCI\LCARS_Subsystem_NCI\obj\Debug\LCARS_Subsystem_NCI.dll
-M:\games\ksp\ksp-win64-0-25-0\KSP_win64\GameData\LCARSMarkII\plugins\LCARS_Subsystem_NCI.dll
-C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARS_Subsystem_NCI\obj\Debug\LCARS_Subsystem_NCI.csprojResolveAssemblyReference.cache
-C:\Users\sim\Documents\Visual Studio 2013\Projects\LCARSMarkII.01_for_0.25\LCARS_Subsystem_NCI\obj\Debug\LCARS_Subsystem_NCI.dll
-M:\games\ksp\ksp-win-0-90-0\KSP_win\GameData\LCARSMarkII\plugins\LCARS_Subsystem_NCI.dll

@@ -1,3 +1,0 @@
-M:\games\ksp\ksp-win64-0-24-2\KSP_win64\GameData\LCARSMarkII\plugins\LCARS_MagBoots.dll
-C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARSMarkII\LCARS_MagBoots\LCARS_MagBoots\obj\Debug\LCARS_MagBoots.csprojResolveAssemblyReference.cache
-C:\Users\sim\Documents\Visual Studio 2013\Projects\Philotical_ImpulseDrive\LCARSMarkII\LCARS_MagBoots\LCARS_MagBoots\obj\Debug\LCARS_MagBoots.dll
